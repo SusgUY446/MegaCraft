@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "glfw3.h": "c",
+        "glad.h": "c",
+        "stdio.h": "c",
+        "A.C": "cpp"
+    }
+}
